@@ -1,3 +1,4 @@
 Flask
 Pillow
 Requests
+gunicorn==23.0.0
